@@ -2,7 +2,7 @@
 
 A Machine Learning web app that predicts whether a student is likely to purchase an online course based on their learning behavior.
 
-🚀 Features
+##🚀 Features
 
 Predicts course purchase using student activity data
 
@@ -12,7 +12,7 @@ Interactive web app using Streamlit
 
 Real-time prediction results
 
-🧠 Model Info
+##🧠 Model Info
 
 Type: Classification
 
@@ -20,7 +20,7 @@ Algorithm: Random Forest
 
 Accuracy: 77%
 
-📊 Inputs
+##📊 Inputs
 
 Age
 
@@ -32,14 +32,15 @@ Platform Visits per Month
 
 Assignment Completion Rate
 
-🛠 Tech Stack
+##🛠 Tech Stack
 
 Python • Scikit-learn • Pandas • NumPy • Streamlit
 
-▶️ Run Locally
+##▶️ Run Locally
 pip install -r requirements.txt
 streamlit run app.py
-👩‍💻 Author
 
+##👩‍💻 Author
 Harshitha P M
 ML Internship Project
+
